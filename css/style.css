@@ -2,6 +2,9 @@
   padding: 0;
   margin: 0;
   font-family: sans-serif;
+  list-style: none;
+  color: aliceblue;
+  text-decoration: none;
 }
 body {
   background-color: #000;
